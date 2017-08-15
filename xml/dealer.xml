@@ -1,0 +1,1168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<list>
+    <Province name="广西">
+        <City name="玉林">
+            <Shop>
+                <Name>广西玉林市骏翔汽车贸易有限公司</Name>
+                <Tel>0775-2669999</Tel>
+                <Address>广西玉林市教育中路1号</Address>
+            </Shop>
+        </City>
+        <City name="南宁">
+            <Shop>
+                <Name>南宁坤驰汽车有限公司</Name>
+                <Tel>0771-5688996</Tel>
+                <Address>南宁市秀厢大道199号延龙车城</Address>
+            </Shop>
+            <Shop>
+                <Name>广西智迈汽车销售服务有限公司</Name>
+                <Tel>0771-3186618</Tel>
+                <Address>南宁市高新大道东段3号永邦汽车城内</Address>
+            </Shop>
+        </City>
+        <City name="梧州">
+            <Shop>
+                <Name>广西梧州昊海利众汽车有限公司</Name>
+                <Tel>0774-3829500</Tel>
+                <Address>广西梧州长洲三龙大道95号</Address>
+            </Shop>
+        </City>
+        <City name="柳州">
+            <Shop>
+                <Name>柳州市兆鑫汽车销售服务有限公司</Name>
+                <Tel>0772-3115559</Tel>
+                <Address>广西省柳州市柳南区蝴蝶山路58号阳光花园6栋</Address>
+            </Shop>
+        </City>
+        <City name="河池">
+            <Shop>
+                <Name>河池克昂汽车销售有限公司</Name>
+                <Tel>0778-2593525</Tel>
+                <Address>河池市乾霄陆19号</Address>
+            </Shop>
+        </City>
+        <City name="桂林">
+            <Shop>
+                <Name>桂林灵川县飞滕汽车销售有限公司</Name>
+                <Tel>0773-2665667</Tel>
+                <Address>广西省桂林市灵川县永业汽车城</Address>
+            </Shop>
+        </City>
+        <City name="贵港">
+            <Shop>
+                <Name>广西方盛实业股份有限公司贵港分公司</Name>
+                <Tel>0775-4529333</Tel>
+                <Address>贵港市港北区金港大道与西环立交桥交汇处金泰汽车城内</Address>
+            </Shop>
+        </City>
+        <City name="北海">
+            <Shop>
+                <Name>广西骏瑞汽车贸易有限公司</Name>
+                <Tel>0779-2298890</Tel>
+                <Address>广西省北海市海城区北部湾东路15号（武装部旁）</Address>
+            </Shop>
+        </City>
+        <City name="百色">
+            <Shop>
+                <Name>百色市桂联汽车销售有限责任公司</Name>
+                <Tel>0776-2693338</Tel>
+                <Address>广西百色市右江区城北一路29号</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="辽宁">
+        <City name="营口">
+            <Shop>
+                <Name>营口东泽汽车销售服务有限公司</Name>
+                <Tel>4175982266</Tel>
+                <Address>辽宁省营口市大石桥市镁都大街丰华颐和村对面</Address>
+            </Shop>
+        </City>
+        <City name="沈阳">
+            <Shop>
+                <Name>沈阳恒众达汽车贸易有限公司</Name>
+                <Tel>024-25516333</Tel>
+                <Address>沈阳市铁西区北二西路29号</Address>
+            </Shop>
+            <Shop>
+                <Name>沈阳鑫风行汽车销售服务有限公司</Name>
+                <Tel>024-88429222</Tel>
+                <Address>沈阳市沈河区东陵西路73-12号</Address>
+            </Shop>
+        </City>
+        <City name="辽阳">
+            <Shop>
+                <Name>辽阳市鑫丰汽车销售服务有限公司</Name>
+                <Tel>0419-5572111</Tel>
+                <Address>辽宁省辽阳市太子河区宏伟区南外环捷香港花园东200米路南</Address>
+            </Shop>
+        </City>
+        <City name="锦州">
+            <Shop>
+                <Name>锦州泰骅汽车销售服务有限公司</Name>
+                <Tel>0416-2822999</Tel>
+                <Address>辽宁省锦州市凌河区解放东路33号</Address>
+            </Shop>
+        </City>
+        <City name="葫芦岛">
+            <Shop>
+                <Name>葫芦岛市远达亚飞汽车销售有限公司</Name>
+                <Tel>0429-2139301</Tel>
+                <Address>葫芦岛市连山区京沈高速公路南东城大桥东侧</Address>
+            </Shop>
+        </City>
+        <City name="阜新">
+            <Shop>
+                <Name>阜新鹏跃汽车销售服务有限公司</Name>
+                <Tel>0418-6295555</Tel>
+                <Address>阜新市经济开发区C路100号</Address>
+            </Shop>
+        </City>
+        <City name="丹东">
+            <Shop>
+                <Name>辽宁开臻汽车销售服务有限公司</Name>
+                <Tel>4153368999</Tel>
+                <Address>辽宁省丹东市东港市前阳镇石佛村第二村民组</Address>
+            </Shop>
+        </City>
+        <City name="大连">
+            <Shop>
+                <Name>大连百通汽车销售有限公司</Name>
+                <Tel>13130400025</Tel>
+                <Address>大连市甘井子区华北路693号</Address>
+            </Shop>
+        </City>
+        <City name="朝阳">
+            <Shop>
+                <Name>朝阳盛捷汽贸有限公司</Name>
+                <Tel>0421-3729666</Tel>
+                <Address>朝阳市中山大街155号</Address>
+            </Shop>
+        </City>
+        <City name="鞍山">
+            <Shop>
+                <Name>鞍山众逸汽车销售服务有限公司</Name>
+                <Tel>0412-7132222</Tel>
+                <Address>鞍山市千山区建设大道592号</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="江苏">
+        <City name="镇江">
+            <Shop>
+                <Name>丹阳市飞龙汽贸有限公司</Name>
+                <Tel>0511-85198519</Tel>
+                <Address>江苏省镇江市丹阳市黄金塘东路7号</Address>
+            </Shop>
+        </City>
+        <City name="扬州">
+            <Shop>
+                <Name>扬州市仙城汽车销售服务有限公司</Name>
+                <Tel>0514-86977000</Tel>
+                <Address>江苏省扬州市江都新区乐和路8号</Address>
+            </Shop>
+        </City>
+        <City name="盐城">
+            <Shop>
+                <Name>盐城铭泰汽车销售服务有限公司</Name>
+                <Tel>0515-81082220</Tel>
+                <Address>盐城市盐都区开创路2号（永宁汽车城一楼）</Address>
+            </Shop>
+        </City>
+        <City name="徐州">
+            <Shop>
+                <Name>徐州宇驰汽车销售服务有限公司</Name>
+                <Tel>0516-68688777</Tel>
+                <Address>徐州市和平路和平桥东延长段竹林寺对面 风行汽车</Address>
+            </Shop>
+        </City>
+        <City name="宿迁">
+            <Shop>
+                <Name>宿迁中大元通风行汽车销售有限公司</Name>
+                <Tel>0527-88880111</Tel>
+                <Address>江苏省宿迁市宿城区西湖路600号</Address>
+            </Shop>
+        </City>
+        <City name="无锡">
+            <Shop>
+                <Name>江苏同行汽车销售服务有限公司</Name>
+                <Tel>0510-82628979</Tel>
+                <Address>无锡市北塘区312国道西汀桥西堍(江苏神州国际汽车市场A一区一层)</Address>
+            </Shop>
+        </City>
+        <City name="泰州">
+            <Shop>
+                <Name>泰州泰东汽车销售有限公司</Name>
+                <Tel>0523-88777901</Tel>
+                <Address>江苏省泰州市华东汽车城向西300米 东风风行4S店</Address>
+            </Shop>
+        </City>
+        <City name="苏州">
+            <Shop>
+                <Name>常熟市鸿鑫汽车贸易有限公司</Name>
+                <Tel>0512-52309000</Tel>
+                <Address>常熟市青墩塘路188号汽车市场奥迪店向东300米</Address>
+            </Shop>
+            <Shop>
+                <Name>苏州乘龙汽车销售有限公司</Name>
+                <Tel>0512-65681500</Tel>
+                <Address>江苏省苏州市吴中区南湖路123号</Address>
+            </Shop>
+            <Shop>
+                <Name>苏州市世华汽车销售服务有限公司</Name>
+                <Tel>0512-65962880</Tel>
+                <Address>江苏省苏州市吴江区江陵东路与庞北路交叉口</Address>
+            </Shop>
+            <Shop>
+                <Name>苏州市世纪汽车物资销售有限公司</Name>
+                <Tel>0512-65962880</Tel>
+                <Address>苏州市吴中区吴东路1190号</Address>
+            </Shop>
+        </City>
+        <City name="南通">
+            <Shop>
+                <Name>南通永达车业有限公司</Name>
+                <Tel>0513-83560999</Tel>
+                <Address>江苏省南通市港闸区城港路57号</Address>
+            </Shop>
+        </City>
+        <City name="南京">
+            <Shop>
+                <Name>南京弘凯汽车销售服务有限公司</Name>
+                <Tel>025-58650110</Tel>
+                <Address>江苏省南京市秦淮区大明路191号</Address>
+            </Shop>
+        </City>
+        <City name="连云港">
+            <Shop>
+                <Name>连云港顺行汽车销售有限公司</Name>
+                <Tel>0518-81087999</Tel>
+                <Address>江苏省连云港市新浦区瀛洲南路236号</Address>
+            </Shop>
+        </City>
+        <City name="淮安">
+            <Shop>
+                <Name>淮安市跃海汽贸有限公司</Name>
+                <Tel>0517-83362111</Tel>
+                <Address>淮安市清河区水渡口大道119号百富东门</Address>
+            </Shop>
+        </City>
+        <City name="常州">
+            <Shop>
+                <Name>常州同晟汽车销售服务有限公司</Name>
+                <Tel>0519-81692155</Tel>
+                <Address>江苏省常州市新北区高新科技园15号楼江苏省常州留学人员创业园3层343</Address>
+            </Shop>
+            <Shop>
+                <Name>常州富泰汽车销售服务有限公司</Name>
+                <Tel>0519-82368666</Tel>
+                <Address>江苏省常州市金坛区晨风路216号</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="四川">
+        <City name="宜宾">
+            <Shop>
+                <Name>宜宾安骏汽车销售服务有限公司</Name>
+                <Tel>0831-3521588</Tel>
+                <Address>四川省宜宾市翠屏区岷江北路68号正和花园A幢1楼安骏汽车销售有限公司</Address>
+            </Shop>
+        </City>
+        <City name="内江">
+            <Shop>
+                <Name>内江四成腾龙汽车销售服务有限公司</Name>
+                <Tel>0832-2188808</Tel>
+                <Address>四川省内江市内江经济技术开发区汉晨路788号1幢</Address>
+            </Shop>
+        </City>
+        <City name="南充">
+            <Shop>
+                <Name>南充玖鼎汽车销售服务有限公司</Name>
+                <Tel>0817-7100888</Tel>
+                <Address>四川省南充市高坪区航空港国际汽车城</Address>
+            </Shop>
+        </City>
+        <City name="绵阳">
+            <Shop>
+                <Name>绵阳鑫吉汽车贸易有限公司</Name>
+                <Tel>0816-2577188</Tel>
+                <Address>绵阳市高新区飞云大道与二环路交汇处（富发物流园内）</Address>
+            </Shop>
+        </City>
+        <City name="泸州">
+            <Shop>
+                <Name>泸州市天奥汽车贸易有限公司</Name>
+                <Tel>0830-6664555</Tel>
+                <Address>泸州市纳溪区蓝安大道机场路口凯联汽车城</Address>
+            </Shop>
+        </City>
+        <City name="凉山彝族自治州">
+            <Shop>
+                <Name>西昌康龙汽车服务有限公司</Name>
+                <Tel>0834-2162666</Tel>
+                <Address>四川省西昌市老海亭正大门内右侧</Address>
+            </Shop>
+        </City>
+        <City name="乐山">
+            <Shop>
+                <Name>乐山安巧汽车销售服务有限责任公司</Name>
+                <Tel>13320913691</Tel>
+                <Address>乐山市市中区通江镇王河园3组</Address>
+            </Shop>
+        </City>
+        <City name="广安">
+            <Shop>
+                <Name>广安华逸汽车销售服务有限公司</Name>
+                <Tel>0826-2506625</Tel>
+                <Address>四川省广安市前锋区护安镇国际汽车城4号4S店</Address>
+            </Shop>
+        </City>
+        <City name="达州">
+            <Shop>
+                <Name>四川志通汽车销售服务有限公司</Name>
+                <Tel>0818-3133999</Tel>
+                <Address>达县南外镇杨柳工业配套园区达州莱克国际汽车商贸园内国际汽车展览馆精品二楼</Address>
+            </Shop>
+        </City>
+        <City name="成都">
+            <Shop>
+                <Name>成都海鑫达汽车销售服务有限公司</Name>
+                <Tel>028-68625999</Tel>
+                <Address>成都市武侯区双星大道武科东四路17号</Address>
+            </Shop>
+            <Shop>
+                <Name>成都集大成汽车贸易有限公司</Name>
+                <Tel>028-85136777</Tel>
+                <Address>四川省成都市武侯区火车南站西路1739号</Address>
+            </Shop>
+            <Shop>
+                <Name>成都集大成汽车贸易有限公司</Name>
+                <Tel>028-85136777</Tel>
+                <Address>四川省成都市武侯区火车南站西路1739号</Address>
+            </Shop>
+            <Shop>
+                <Name>四川长钛机电设备有限公司</Name>
+                <Tel>028-85095513</Tel>
+                <Address>四川省成都市武侯区成双大道北段539号</Address>
+            </Shop>
+        </City>
+        <City name="重庆">
+            <Shop>
+                <Name>重庆市海泽风行汽车销售服务有限公司</Name>
+                <Tel>023-86593266</Tel>
+                <Address>重庆市渝中区长江二路3号-附4号</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="浙江">
+        <City name="温州">
+            <Shop>
+                <Name>温州市森娜美汽车维修有限公司</Name>
+                <Tel>0577-88861618</Tel>
+                <Address>浙江省温州市瓯海区牛山南路110号-1</Address>
+            </Shop>
+            <Shop>
+                <Name>温州雁峰汽车贸易有限公司</Name>
+                <Tel>0577-58191818</Tel>
+                <Address>平阳县敖江镇务洋104国道线边（雁峰集团有限公司一楼）</Address>
+            </Shop>
+            <Shop>
+                <Name>瑞安市杰峰汽车贸易有限公司</Name>
+                <Tel>0577-66087077</Tel>
+                <Address>瑞安市塘下镇岑头村岑头东路96、98、100、102号</Address>
+            </Shop>
+        </City>
+        <City name="台州">
+            <Shop>
+                <Name>台州市鑫诚汽车销售服务有限公司</Name>
+                <Tel>13173775111</Tel>
+                <Address>台州市路桥区卖芝桥东路888-16号</Address>
+            </Shop>
+        </City>
+        <City name="绍兴">
+            <Shop>
+                <Name>浙江锦锐汽车有限公司</Name>
+                <Tel>0575-82926666</Tel>
+                <Address>浙江省绍兴市袍江新区桑港路350-2</Address>
+            </Shop>
+        </City>
+        <City name="衢州">
+            <Shop>
+                <Name>衢州金风行汽车有限公司</Name>
+                <Tel>0570-2289968</Tel>
+                <Address>衢州市衢江区樟潭街道戚家村155号</Address>
+            </Shop>
+        </City>
+        <City name="宁波">
+            <Shop>
+                <Name>浙江元通风行汽车有限公司宁波分公司</Name>
+                <Tel>0574-87099568</Tel>
+                <Address>?宁波 市环城北路东段851号</Address>
+            </Shop>
+            <Shop>
+                <Name>宁波国隆汽车销售服务有限公司</Name>
+                <Tel>0574-8683900</Tel>
+                <Address>浙江省宁波市北仑区大港中路29号</Address>
+            </Shop>
+        </City>
+        <City name="金华">
+            <Shop>
+                <Name>金华市智尔汽车销售有限公司</Name>
+                <Tel>0579-82080502</Tel>
+                <Address>浙江省金华市金东区金华汽车城纵二路</Address>
+            </Shop>
+        </City>
+        <City name="嘉兴">
+            <Shop>
+                <Name>浙江元通风行汽车有限公司嘉兴分公司</Name>
+                <Tel>0573-83963030</Tel>
+                <Address>浙江省嘉兴市南湖区广益路1338号汽车商贸园</Address>
+            </Shop>
+        </City>
+        <City name="湖州">
+            <Shop>
+                <Name>湖州锦锐汽车销售服务有限公司</Name>
+                <Tel>0572-2558199</Tel>
+                <Address>浙江省湖州市吴兴区杭长桥北路2388号</Address>
+            </Shop>
+        </City>
+        <City name="杭州">
+            <Shop>
+                <Name>浙江宝诚汽车销售有限公司</Name>
+                <Tel>0571-88171717</Tel>
+                <Address>杭州市石祥路589号</Address>
+            </Shop>
+            <Shop>
+                <Name>浙江元通风行汽车有限公司</Name>
+                <Tel>0571-88012811</Tel>
+                <Address>杭州市拱墅区沈半路255号</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="广东">
+        <City name="东莞">
+            <Shop>
+                <Name>东莞市顺隆汽车贸易有限公司</Name>
+                <Tel>0769-22662298</Tel>
+                <Address>东莞市南城区莞太路白马路段</Address>
+            </Shop>
+        </City>
+        <City name="佛山">
+            <Shop>
+                <Name>佛山市协力汽车销售服务有限公司</Name>
+                <Tel>0757-83876077</Tel>
+                <Address>佛山市佛山在道番村路段东1号</Address>
+            </Shop>
+            <Shop>
+                <Name>佛山市禅通汽车贸易有限公司</Name>
+                <Tel>0757-83874116</Tel>
+                <Address>佛山市南海区海八路华南汽车城G12之五铺（风行祥通专营店）</Address>
+            </Shop>
+        </City>
+        <City name="广州">
+            <Shop>
+                <Name>广东浩鸿汽车贸易有限公司</Name>
+                <Tel>020-28270889</Tel>
+                <Address>广州市白云区白云大道北113号</Address>
+            </Shop>
+            <Shop>
+                <Name>广州市名驹汽车贸易有限公司</Name>
+                <Tel>020-62700188</Tel>
+                <Address>广州市增城区新沙大道北43</Address>
+            </Shop>
+        </City>
+        <City name="河源">
+            <Shop>
+                <Name>河源市腾达汽车销售服务有限公司</Name>
+                <Tel>0762-3689388</Tel>
+                <Address>河源市河源大道南风光村三王坝石峡</Address>
+            </Shop>
+        </City>
+        <City name="惠州">
+            <Shop>
+                <Name>惠州市金丰达汽车销售服务有限公司</Name>
+                <Tel>0752-2130333</Tel>
+                <Address>惠州市江北西部7号小区惠博大道金山汽车城一街9号</Address>
+            </Shop>
+            <Shop>
+                <Name>广东粤灿实业有限公司</Name>
+                <Tel>0752-2281188</Tel>
+                <Address>惠州市惠城区江北西部7号小区惠博大道金山汽车城二街18号</Address>
+            </Shop>
+            <Shop>
+                <Name>惠州市华辰汽车销售有限公司</Name>
+                <Tel>0752-2278555</Tel>
+                <Address>惠州市惠城区龙丰上排新联路28号</Address>
+            </Shop>
+        </City>
+        <City name="江门">
+            <Shop>
+                <Name>江门市吉大昌汽车经贸发展有限公司</Name>
+                <Tel>0750-3320666</Tel>
+                <Address>江门市建设三路153号</Address>
+            </Shop>
+        </City>
+        <City name="揭阳">
+            <Shop>
+                <Name>揭阳市柳阳汽车有限公司</Name>
+                <Tel>0663-3288998</Tel>
+                <Address>揭阳市206国揭东路段惠丰园旁</Address>
+            </Shop>
+        </City>
+        <City name="茂名">
+            <Shop>
+                <Name>茂名市宇鸣汽车贸易有限公司</Name>
+                <Tel>0668-3196288</Tel>
+                <Address>茂名市电白区高水路与茂南大道交汇处</Address>
+            </Shop>
+        </City>
+        <City name="梅州">
+            <Shop>
+                <Name>梅州市利兴汽车贸易有限公司</Name>
+                <Tel>0753-2369116</Tel>
+                <Address>广东省梅州市梅江区环市西路小雨加油站旁往锭子桥方向前300米东风景逸4S店</Address>
+            </Shop>
+        </City>
+        <City name="清远">
+            <Shop>
+                <Name>清远市圆泰汽车销售服务有限公司</Name>
+                <Tel>0763-3335999</Tel>
+                <Address>清远市清城区横荷街道清三公路（狮子湖高尔夫球场斜对面）</Address>
+            </Shop>
+        </City>
+        <City name="深圳">
+            <Shop>
+                <Name>深圳市枫兴汽车销售服务有限公司</Name>
+                <Tel>0755-36863701</Tel>
+                <Address>深圳市龙华新区观澜街道南大富社区环观中路362号</Address>
+            </Shop>
+            <Shop>
+                <Name>深圳市瑞浩汽车有限公司</Name>
+                <Tel>0755-36691751</Tel>
+                <Address>深圳市龙华新区大浪办事处石龙路2号合盛国际汽车园正大门</Address>
+            </Shop>
+            <Shop>
+                <Name>深圳市东浩汽车贸易有限公司</Name>
+                <Tel>0755-28995766</Tel>
+                <Address>深圳龙岗区南通道爱南路359号</Address>
+            </Shop>
+            <Shop>
+                <Name>深圳市永捷汽车贸易有限公司</Name>
+                <Tel>18018770029</Tel>
+                <Address>深圳市宝安区福永街道凤凰社区岑下路168号</Address>
+            </Shop>
+        </City>
+        <City name="湛江">
+            <Shop>
+                <Name>湛江源流汽车销售有限公司</Name>
+                <Tel>0759-3288799</Tel>
+                <Address>广东省湛江市赤坎区人民大道北11号之一</Address>
+            </Shop>
+        </City>
+        <City name="肇庆">
+            <Shop>
+                <Name>肇庆市美利汽车销售有限公司</Name>
+                <Tel>0758-2722618</Tel>
+                <Address>广东省肇庆市端州区东岗东路南侧126号</Address>
+            </Shop>
+        </City>
+        <City name="中山">
+            <Shop>
+                <Name>中山市悦兴汽车销售服务有限公司</Name>
+                <Tel>0760-88283839</Tel>
+                <Address>黄圃镇兴圃大道中95号</Address>
+            </Shop>
+        </City>
+        <City name="黄圃镇兴圃大道中95号">
+            <Shop>
+                <Name>珠海市吉大昌汽车贸易有限公司</Name>
+                <Tel>0756-8655868</Tel>
+                <Address>广东省珠海市上冲国际名车城华威路128号综合楼一楼</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="河北">
+        <City name="保定">
+            <Shop>
+                <Name>保定市朋乐汽车贸易有限公司</Name>
+                <Tel>0312-5028222</Tel>
+                <Address>河北省保定市莲池区东三环与复兴路交叉口北行100米路西</Address>
+            </Shop>
+        </City>
+        <City name="沧州">
+            <Shop>
+                <Name>河北海钰汽车贸易有限公司</Name>
+                <Tel>0317-3055050</Tel>
+                <Address>河北省沧州市新华区芦家园村南芦园加油站西行100米路北</Address>
+            </Shop>
+        </City>
+        <City name="承德">
+            <Shop>
+                <Name>隆化县路路通机动车销售有限公司</Name>
+                <Tel>0314-7326066</Tel>
+                <Address>小汤头沟北方汽车城</Address>
+            </Shop>
+            <Shop>
+                <Name>承德庞大哈飞汽车销售有限公司</Name>
+                <Tel>0314-2298118</Tel>
+                <Address>河北省承德市双桥区大石庙镇太平庄汽车城</Address>
+            </Shop>
+        </City>
+        <City name="邯郸">
+            <Shop>
+                <Name>邯郸市首信汽车销售服务有限公司</Name>
+                <Tel>0310-4289777</Tel>
+                <Address>邯郸市北环路与107桥交口西行200米路北</Address>
+            </Shop>
+            <Shop>
+                <Name>邯郸市康盛汽车销售服务有限公司</Name>
+                <Tel>0310-4093456</Tel>
+                <Address>河北省邯郸市复兴区北环路88号现代国际汽贸城内</Address>
+            </Shop>
+            <Shop>
+                <Name>永年县腾盛汽车销售服务有限公司</Name>
+                <Tel>0310-4566780</Tel>
+                <Address>河北省邯郸永年县高新区火炬街东段路南</Address>
+            </Shop>
+        </City>
+        <City name="衡水">
+            <Shop>
+                <Name>衡水宏途汽车贸易有限公司</Name>
+                <Tel>0318-2116199</Tel>
+                <Address>衡水市桃城区胜利西路与顺平街交叉口</Address>
+            </Shop>
+        </City>
+        <City name="廊坊">
+            <Shop>
+                <Name>廊坊瑞德汽车服务有限公司</Name>
+                <Tel>0316-8063333</Tel>
+                <Address>河北省廊坊市开发区金源道92号东部二楼204号</Address>
+            </Shop>
+        </City>
+        <City name="秦皇岛">
+            <Shop>
+                <Name>秦皇岛市华远工贸有限公司</Name>
+                <Tel>03353804555</Tel>
+                <Address>河北省秦皇岛市海港区北二环378号</Address>
+            </Shop>
+        </City>
+        <City name="任丘">
+            <Shop>
+                <Name>任丘市天亿汽车销售服务有限公司</Name>
+                <Tel>8118686</Tel>
+                <Address>任丘市新华路办事处一街村</Address>
+            </Shop>
+        </City>
+        <City name="石家庄">
+            <Shop>
+                <Name>石家庄华盛汽车贸易有限公司</Name>
+                <Tel>0311-87770501</Tel>
+                <Address>河北省石家庄市桥东区北外环路59号</Address>
+            </Shop>
+        </City>
+        <City name="唐山">
+            <Shop>
+                <Name>唐山欧路汽车销售服务有限公司</Name>
+                <Tel>0315-2977927</Tel>
+                <Address>河北省唐山市路南区唐柏路汽车产业园区</Address>
+            </Shop>
+        </City>
+        <City name="邢台">
+            <Shop>
+                <Name>邢台市凯骏商贸有限公司</Name>
+                <Tel>0319-3900499</Tel>
+                <Address>邢台市北外环邢东煤矿路口北侧东风风行4S店</Address>
+            </Shop>
+        </City>
+        <City name="张家口">
+            <Shop>
+                <Name>张家口天宇豪顺汽车销售服务有限公司</Name>
+                <Tel>0313-8183377</Tel>
+                <Address>张家口市高新区胜利南路65号远大二手车市场院内</Address>
+            </Shop>
+            <Shop>
+                <Name>张家口祥瑞汽车销售服务有限公司</Name>
+                <Tel>0313-5921999</Tel>
+                <Address>张家口市沙岭子镇太师湾村庞大汽贸园内</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="河南">
+        <City name="驻马店">
+            <Shop>
+                <Name>驻马店市风行汽车销售服务有限公司</Name>
+                <Tel>0396-2888178</Tel>
+                <Address>河南驻马店市文明路与洪河路交叉口北200米二堂汽贸主体公园</Address>
+            </Shop>
+        </City>
+        <City name="周口">
+            <Shop>
+                <Name>周口市昌通汽车销售服务有限公司</Name>
+                <Tel>0394-7989777</Tel>
+                <Address>周口市周淮路东段</Address>
+            </Shop>
+        </City>
+        <City name="郑州">
+            <Shop>
+                <Name>河南海川之星贸易有限公司</Name>
+                <Tel>0371-55090888</Tel>
+                <Address>郑州市中州大道与三全路向北500米路西桑园汽车城C区</Address>
+            </Shop>
+            <Shop>
+                <Name>河南伟业汽车销售服务有限公司</Name>
+                <Tel>0371-86093100</Tel>
+                <Address>郑州市三全路与金杯路交叉口向东200米路北</Address>
+            </Shop>
+            <Shop>
+                <Name>河南裕华江山汽车销售有限公司</Name>
+                <Tel>0371-60917606</Tel>
+                <Address>郑州市花园北路与开元路交叉口河南汽车贸易中心</Address>
+            </Shop>
+        </City>
+        <City name="许昌">
+            <Shop>
+                <Name>许昌市恒力汽车销售服务有限公司</Name>
+                <Tel>0374-2526688</Tel>
+                <Address>许昌市汽车北环万通大道车辆购置税大厅西邻</Address>
+            </Shop>
+            <Shop>
+                <Name>许昌裕华汽车销售有限公司</Name>
+                <Tel>3743393309</Tel>
+                <Address>许昌市魏都区延安路北段与陈庄街交叉口</Address>
+            </Shop>
+        </City>
+        <City name="信阳">
+            <Shop>
+                <Name>信阳伟业汽车销售服务有限公司</Name>
+                <Tel>0376-3869888</Tel>
+                <Address>信阳市平桥区中心大道与312国道交汇处东100米</Address>
+            </Shop>
+        </City>
+        <City name="新乡">
+            <Shop>
+                <Name>新乡市兴瑞汽车销售服务有限公司</Name>
+                <Tel>0373-5218555</Tel>
+                <Address>河南省新乡市卫滨区南环汽车广场院内D区4-5楼下门面房</Address>
+            </Shop>
+        </City>
+        <City name="商丘">
+            <Shop>
+                <Name>商丘市佳瑞汽车销售服务有限公司</Name>
+                <Tel>0370-3276222</Tel>
+                <Address>商丘市梁园区民主路与富康路交叉口北500米</Address>
+            </Shop>
+        </City>
+        <City name="三门峡">
+            <Shop>
+                <Name>三门峡市世纪天凯汽车服务有限公司</Name>
+                <Tel>0398-2896333</Tel>
+                <Address>三门峡市开发区机动车交易市场中区</Address>
+            </Shop>
+        </City>
+        <City name="濮阳">
+            <Shop>
+                <Name>濮阳市兴丰汽车销售有限公司</Name>
+                <Tel>0393-8807988</Tel>
+                <Address>河南省濮阳市106国道与苏北路交汇处向南100米</Address>
+            </Shop>
+        </City>
+        <City name="平顶山">
+            <Shop>
+                <Name>平顶山市鸿泰兴汽车销售服务有限公司</Name>
+                <Tel>0375-2080777</Tel>
+                <Address>平顶山市建设西路花卉大世界斜对面</Address>
+            </Shop>
+            <Shop>
+                <Name>平顶山市威普汽车销售有限公司</Name>
+                <Tel>0375-2569777</Tel>
+                <Address>建设路东段与开发一路交叉口向西100米路北宜东汽车城院内</Address>
+            </Shop>
+        </City>
+        <City name="南阳海川汽车销售有限公司">
+            <Shop>
+                <Name>南阳海川汽车销售有限公司</Name>
+                <Tel>0377-63550138</Tel>
+                <Address>南阳市光武西路（与北京大道交叉口向东300米路北）</Address>
+            </Shop>
+        </City>
+        <City name="漯河">
+            <Shop>
+                <Name>漯河博诚汽车销售服务有限公司</Name>
+                <Tel>0395-3359555</Tel>
+                <Address>漯河市源汇区G107国道与柳江路交叉口宏达汽车城</Address>
+            </Shop>
+        </City>
+        <City name="洛阳">
+            <Shop>
+                <Name>洛阳辉亮汽车销售服务有限公司</Name>
+                <Tel>0379-65508188</Tel>
+                <Address>河南省洛阳市洛龙区龙门大道118号</Address>
+            </Shop>
+            <Shop>
+                <Name>洛阳致逸汽车销售服务有限公司</Name>
+                <Tel>0379-65905999</Tel>
+                <Address>洛阳市老城区中沟村汽配城C区2排1号</Address>
+            </Shop>
+            <Shop>
+                <Name>偃师市方德宝汽车销售有限公司</Name>
+                <Tel>18637985122</Tel>
+                <Address>偃师市城关镇嚇田寨村</Address>
+            </Shop>
+        </City>
+        <City name="开封">
+            <Shop>
+                <Name>河南省本鼎汽车销售有限公司</Name>
+                <Tel>0371-23336333</Tel>
+                <Address>开封市魏都路与集英街交叉口</Address>
+            </Shop>
+        </City>
+        <City name="焦作">
+            <Shop>
+                <Name>焦作市乾博源物资有限责任公司</Name>
+                <Tel>0391-8865799</Tel>
+                <Address>焦作市迎宾路与黄河路交汇处西南角50米处</Address>
+            </Shop>
+        </City>
+        <City name="鹤壁">
+            <Shop>
+                <Name>鹤壁市鑫亚飞汽车销售有限公司</Name>
+                <Tel>0392-3295555</Tel>
+                <Address>河南省鹤壁市淇滨区黎阳中东段永兴汽车城内</Address>
+            </Shop>
+        </City>
+        <City name="安阳">
+            <Shop>
+                <Name>安阳市润佳汽车销售有限公司</Name>
+                <Tel>0372-2175666</Tel>
+                <Address>河南省安阳市龙安区文昌大道玄鸟西500米路南</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="湖北">
+        <City name="宜昌">
+            <Shop>
+                <Name>宜昌市鑫润汽车销售有限责任公司</Name>
+                <Tel>0717-6903336</Tel>
+                <Address>湖北宜昌市发展大道宜洋汽车后市场宜洋大厦一楼</Address>
+            </Shop>
+        </City>
+        <City name="孝感">
+            <Shop>
+                <Name>孝感市辉航汽车销售有限公司</Name>
+                <Tel>0712-2556609</Tel>
+                <Address>孝感市澴川路289号</Address>
+            </Shop>
+        </City>
+        <City name="襄阳">
+            <Shop>
+                <Name>襄阳鑫风行汽车销售服务有限公司</Name>
+                <Tel>0710-2384888</Tel>
+                <Address>湖北省襄阳市襄州区富康大道南路国际名车城）</Address>
+            </Shop>
+        </City>
+        <City name="咸宁">
+            <Shop>
+                <Name>咸宁东峻天合汽车销售服务有限公司</Name>
+                <Tel>0715-8108222</Tel>
+                <Address>湖北省咸宁经济开发区金桂大道13号</Address>
+            </Shop>
+        </City>
+        <City name="武汉">
+            <Shop>
+                <Name>湖北省东安工贸有限公司</Name>
+                <Tel>027-82318982</Tel>
+                <Address>汉口解放大道2855号（堤角轻轨站旁）</Address>
+            </Shop>
+            <Shop>
+                <Name>武汉峻风汽车销售有限公司</Name>
+                <Tel>027-84688651</Tel>
+                <Address>武汉市汉阳区汉阳大道汉蔡路特8-9号</Address>
+            </Shop>
+            <Shop>
+                <Name>武汉南琦投资有限公司</Name>
+                <Tel>027-61900111</Tel>
+                <Address>武汉市青山区仁和路4号地铁口D出口正对面风行汽车</Address>
+            </Shop>
+            <Shop>
+                <Name>东风鸿泰武汉关山汽车销售服务有限公司</Name>
+                <Tel>027-86639758</Tel>
+                <Address>湖北省武汉市东湖高新开发区大学园路5号</Address>
+            </Shop>
+        </City>
+        <City name="天门">
+            <Shop>
+                <Name>天门东峻天华汽车销售服务有限公司</Name>
+                <Tel>0728-5801288</Tel>
+                <Address>天门市陆羽大道与竟东路交汇处以北承天国际车城</Address>
+            </Shop>
+        </City>
+        <City name="随州">
+            <Shop>
+                <Name>随州市明航汽车贸易有限公司</Name>
+                <Tel>0722-3582222</Tel>
+                <Address>随州市曾都区神农汽车市场B幢</Address>
+            </Shop>
+        </City>
+        <City name="十堰">
+            <Shop>
+                <Name>十堰市品正工贸有限公司</Name>
+                <Tel>0719-7208999</Tel>
+                <Address>湖北省十堰市茅箭区丹江路19号</Address>
+            </Shop>
+        </City>
+        <City name="荆州">
+            <Shop>
+                <Name>荆州东浩汽车销售服务有限公司</Name>
+                <Tel>0716-8618386</Tel>
+                <Address>郢城镇竹叶山车世界C2栋</Address>
+            </Shop>
+        </City>
+        <City name="荆门">
+            <Shop>
+                <Name>荆门东荆汽车销售服务有限公司</Name>
+                <Tel>0724-2413918</Tel>
+                <Address>荆门市高新区迎春大道宜洋汽车后市场</Address>
+            </Shop>
+        </City>
+        <City name="黄石">
+            <Shop>
+                <Name>黄石有运汽车销售服务有限公司</Name>
+                <Tel>0714-6509990</Tel>
+                <Address>湖北省黄石市黄石港区迎宾大道与鄂城大道交汇处 天行御景庄园旁</Address>
+            </Shop>
+        </City>
+        <City name="黄冈">
+            <Shop>
+                <Name>黄冈市鼎正汽车销售服务有限公司</Name>
+                <Tel>0713-8342666</Tel>
+                <Address>湖北省黄冈市南湖农场榨舟山2对(南湖收费站旁）</Address>
+            </Shop>
+        </City>
+        <City name="恩施">
+            <Shop>
+                <Name>湖北三环盛通汽车有限公司恩施分公司</Name>
+                <Tel>0718-8414000</Tel>
+                <Address>湖北省恩施市施州大道314号</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="山东">
+        <City name="淄博">
+            <Shop>
+                <Name>淄博新风行汽车销售有限责任公司</Name>
+                <Tel>0533-3591266</Tel>
+                <Address>山泉路83号新风行专营店</Address>
+            </Shop>
+        </City>
+        <City name="枣庄">
+            <Shop>
+                <Name>枣庄市郊南汽车维修销售有限公司</Name>
+                <Tel>0632-3151606</Tel>
+                <Address>枣庄市市中区青檀南路17号</Address>
+            </Shop>
+        </City>
+        <City name="烟台">
+            <Shop>
+                <Name>烟台万达汽车销售有限公司</Name>
+                <Tel>0535-6021234</Tel>
+                <Address>山东省烟台市芝罘区机场路198号</Address>
+            </Shop>
+            <Shop>
+                <Name>龙口合胜达汽车销售服务有限公司</Name>
+                <Tel>0535-8558555</Tel>
+                <Address>山东省烟台市龙口市新嘉街道张郑村北3号</Address>
+            </Shop>
+        </City>
+        <City name="潍坊">
+            <Shop>
+                <Name>山东东虹工贸有限公司</Name>
+                <Tel>0536-8812099</Tel>
+                <Address>山东省潍坊市奎文区潍州路399号</Address>
+            </Shop>
+            <Shop>
+                <Name>青州盛隆汽车贸易有限公司</Name>
+                <Tel>0536-3285555</Tel>
+                <Address>山东省青州市玲珑山北路2218号</Address>
+            </Shop>
+        </City>
+        <City name="威海">
+            <Shop>
+                <Name>威海鑫友汽车销售服务有限公司</Name>
+                <Tel>0631-5379588</Tel>
+                <Address>山东省威海市环翠区温泉镇冶口金蚂蚁汽车广场3号店</Address>
+            </Shop>
+        </City>
+        <City name="泰安">
+            <Shop>
+                <Name>泰安宇华伟业工贸有限公司</Name>
+                <Tel>0538-6303666</Tel>
+                <Address>山东省泰安市泰东路龙信汽车广场</Address>
+            </Shop>
+        </City>
+        <City name="日照">
+            <Shop>
+                <Name>日照市兆东汽车贸易有限公司</Name>
+                <Tel>2220077</Tel>
+                <Address>山东省日照市204国道东八方轮胎城院内</Address>
+            </Shop>
+        </City>
+        <City name="青岛">
+            <Shop>
+                <Name>青岛风行汽车销售有限公司</Name>
+                <Tel>0532-68000999</Tel>
+                <Address>山东省青岛市城阳区308国道301号</Address>
+            </Shop>
+            <Shop>
+                <Name>青岛政杰汽车销售服务有限公司</Name>
+                <Tel>0532-86628166</Tel>
+                <Address>山东省青岛市胶州市九龙街道办事处海尔大道258号</Address>
+            </Shop>
+        </City>
+        <City name="临沂">
+            <Shop>
+                <Name>临沂阳光汽车贸易有限公司</Name>
+                <Tel>0539-8038998</Tel>
+                <Address>兰山区蒙山大道北鲁南汽车城南邻阳光汽贸</Address>
+            </Shop>
+            <Shop>
+                <Name>临沂中天汽车贸易有限公司</Name>
+                <Tel>0539-3222686</Tel>
+                <Address>山东省临沂市沂南县界湖街道澳柯玛大道阳都驾校西350米</Address>
+            </Shop>
+        </City>
+        <City name="聊城">
+            <Shop>
+                <Name>聊城市汇海汽车销售有限公司</Name>
+                <Tel>0635-2998222</Tel>
+                <Address>山东省聊城市开发区泰山路中段</Address>
+            </Shop>
+        </City>
+        <City name="莱芜">
+            <Shop>
+                <Name>莱芜市泰东汽车销售服务有限公司</Name>
+                <Tel>0634-6129966</Tel>
+                <Address>莱芜市莱城区凤城西大街272号</Address>
+            </Shop>
+        </City>
+        <City name="济宁">
+            <Shop>
+                <Name>济宁市鸿斌汽车销售有限责任公司</Name>
+                <Tel>0537-3167777</Tel>
+                <Address>山东省济宁市虎标铝业工业园（南营村对过）</Address>
+            </Shop>
+            <Shop>
+                <Name>济宁祥润汽车销售服务有限公司</Name>
+                <Tel>0537-2073111</Tel>
+                <Address>山东省济宁市嘉祥县刘山村村南（富豪汽车城内）</Address>
+            </Shop>
+        </City>
+        <City name="济南">
+            <Shop>
+                <Name>济南嘉悦汽车销售服务有限公司</Name>
+                <Tel>0531-82960088</Tel>
+                <Address>山东省济南市历下区工业南路60-8号</Address>
+            </Shop>
+            <Shop>
+                <Name>济南智逸汽车销售服务有限公司</Name>
+                <Tel>0531-68815111</Tel>
+                <Address>山东省济南市槐荫区二环西路68号匡山汽车大世界东区3号</Address>
+            </Shop>
+        </City>
+        <City name="东营齐胜汽车销售有限公司">
+            <Shop>
+                <Name>菏泽市广成汽车销售有限公司</Name>
+                <Tel>0530-5108855</Tel>
+                <Address>山东省菏泽市牡丹区黄河东路菏建工业园汽车交易大市场对过</Address>
+            </Shop>
+        </City>
+        <City name="东营齐胜汽车销售有限公司">
+            <Shop>
+                <Name>东营齐胜汽车销售有限公司</Name>
+                <Tel>0546-7677227</Tel>
+                <Address>东营市北二路与西五路交汇处向西580米</Address>
+            </Shop>
+        </City>
+        <City name="德州">
+            <Shop>
+                <Name>德州润通汽车贸易有限公司</Name>
+                <Tel>0534-2582333</Tel>
+                <Address>山东省德州市经济开发区广川大道中段（机动车交易市场院内）</Address>
+            </Shop>
+        </City>
+        <City name="滨州">
+            <Shop>
+                <Name>滨州市华驰汽车销售服务有限公司</Name>
+                <Tel>0543-3298666</Tel>
+                <Address>山东省滨州市渤海五路888号</Address>
+            </Shop>
+            <Shop>
+                <Name>邹平迅驰汽贸有限公司</Name>
+                <Tel>0543-2248333</Tel>
+                <Address>山东省邹平县韩店镇工业园</Address>
+            </Shop>
+        </City>
+    </Province>
+    <Province name="陕西">
+        <City name="榆林">
+            <Shop>
+                <Name>榆林市佳诚汽车运输有限公司</Name>
+                <Tel>0219-2283338</Tel>
+                <Address>陕西省榆林市榆阳区上郡路13号</Address>
+            </Shop>
+        </City>
+        <City name="咸阳">
+            <Shop>
+                <Name>陕西平鑫汽车服务有限公司</Name>
+                <Tel>029-32067360</Tel>
+                <Address>秦都区西兰路南上召汽车产业园G312国道</Address>
+            </Shop>
+        </City>
+        <City name="西安">
+            <Shop>
+                <Name>陕西元源汽车贸易有限公司</Name>
+                <Tel>029--89304069</Tel>
+                <Address>陕西西安未央三桥西部车城二环岛</Address>
+            </Shop>
+            <Shop>
+                <Name>陕西新利亨汽车销售服务有限公司</Name>
+                <Tel>400-8796457</Tel>
+                <Address>西安市明光路经开区75号厂房</Address>
+            </Shop>
+        </City>
+        <City name="渭南">
+            <Shop>
+                <Name>渭南市易通汽车贸易有限公司</Name>
+                <Tel>0913-8202629</Tel>
+                <Address>渭南市乐天大街东段（财局对面）</Address>
+            </Shop>
+        </City>
+        <City name="铜川">
+            <Shop>
+                <Name>铜川市亚虎汽车工贸有限公司</Name>
+                <Tel>0919-7182888</Tel>
+                <Address>陕西省铜川市王益区黄堡镇工</Address>
+            </Shop>
+        </City>
+        <City name="汉中">
+            <Shop>
+                <Name>汉中海通机电实业发展有限责任公司</Name>
+                <Tel>0916-5366558</Tel>
+                <Address>汉中市经济开发区南区西汉高速站牌向东100米</Address>
+            </Shop>
+        </City>
+        <City name="宝鸡">
+            <Shop>
+                <Name>宝鸡风行汽车销售服务有限公司</Name>
+                <Tel>0917-3879099</Tel>
+                <Address>陕西省宝鸡市高新区高新大道220号</Address>
+            </Shop>
+        </City>
+        <City name="安康">
+            <Shop>
+                <Name>陕西安康鑫嘉铭汽车销售服务有限公司</Name>
+                <Tel>0915-33667700</Tel>
+                <Address>陕西省安康市汉滨区高新区钻石西路3号</Address>
+            </Shop>
+        </City>
+    </Province>
+</list>
